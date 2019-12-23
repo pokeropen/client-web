@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jalagari/openpoker.git"
+    "url": "git+https://github.com/pokeropen/client-web.git"
   },
   "author": "Vijay Kumar Jalagari",
   "bugs": {
-    "url": "https://github.com/jalagari/openpoker/issues"
+    "url": "https://github.com/pokeropen/client-web/issues"
   },
-  "homepage": "https://github.com/jalagari/openpoker#readme",
+  "homepage": "https://github.com/pokeropen/client-web#readme",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
